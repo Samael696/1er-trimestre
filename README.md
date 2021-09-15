@@ -37,7 +37,7 @@ Bienevenidos al 1er cuatrimestre
 
 -me gusta el fútbol
 
--mi idolo es maradona
+-mi idolo es [maradona](https://es.wikipedia.org/wiki/Diego_Maradona)
 
 ⛈️⛈️⛈️⛈️⛈️⛈️⛈️⛈️⛈️⛈️
 
