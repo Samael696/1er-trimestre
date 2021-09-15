@@ -30,3 +30,9 @@ valuepuls = digitalRead (pinpuls);
 
 
 ![imagen](https://user-images.githubusercontent.com/90753326/133392921-7047aec6-2fe8-4f83-bd3b-39fd3ec56df0.png)
+
+Bienevenidos al 1er cuatrimestre
+me llamo Andree
+me gusta el fútbol 
+mi idolo es maradona
+soy un pan de Dios
