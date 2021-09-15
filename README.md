@@ -33,7 +33,11 @@ valuepuls = digitalRead (pinpuls);
 
 Bienevenidos al 1er cuatrimestre
 
-me llamo Andree
-me gusta el fútbol 
-mi idolo es maradona
-soy un pan de Dios
+-me llamo Andree
+
+-me gusta el fútbol
+
+-mi idolo es maradona
+
+⛈️⛈️⛈️⛈️⛈️⛈️⛈️⛈️⛈️⛈️
+
