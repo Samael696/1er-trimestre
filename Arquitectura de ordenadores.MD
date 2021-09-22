@@ -14,3 +14,5 @@ los CD's,DVD's y disquetes fueron comparados con por capacidad en medidas de kb,
 etos anteriormente mencionados ya son casi obsoletos debido a la nuevas formas de almacenamiento que existen
 la ventilacion de algunos componentes es esencial para que estos no se fundan y dejen de funcionar, ya que al someterse a altas temperaturas, las soldaduras de estos se pueden fundir y estropear
 la placa base es uno de los componentes mas complejos que contiene una PC y por ende lo mas importante ya que de no ser por este nada podria funcionar
+
+*numeros binarios*
