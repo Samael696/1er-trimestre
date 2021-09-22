@@ -11,5 +11,6 @@ He ido a esta [pagina web](https://agilefingers.com/es/) y he hecho esto. Me ha 
 
 ## 22 sept
 
-![](https://raw.githubusercontent.com/Samael696/1er-trimestre/main/Captura%20de%20pantalla%20de%202021-09-22%2010-38-27.png)
+![](https://raw.githubusercontent.com/Samael696/1er-trimestre/main/Captura%20de%20pantalla%20de%202021-09-22%2010-53-40.png)
+
 
