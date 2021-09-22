@@ -36,4 +36,4 @@ la placa base es uno de los componentes mas complejos que contiene una PC y por 
 
 # total
 
-1.074,61€
+1.024,61€
