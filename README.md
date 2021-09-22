@@ -41,6 +41,10 @@ Bienevenidos al 1er cuatrimestre
 
 -mi idolo es [maradona](https://es.wikipedia.org/wiki/Diego_Maradona)
 
+-soy de Perú
+
+-me interesa aprender programacion en arduino
+
 ⛈️⛈️⛈️⛈️⛈️⛈️⛈️⛈️⛈️⛈️
 
 
