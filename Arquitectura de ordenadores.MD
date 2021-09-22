@@ -15,15 +15,10 @@ etos anteriormente mencionados ya son casi obsoletos debido a la nuevas formas d
 la ventilacion de algunos componentes es esencial para que estos no se fundan y dejen de funcionar, ya que al someterse a altas temperaturas, las soldaduras de estos se pueden fundir y estropear
 la placa base es uno de los componentes mas complejos que contiene una PC y por ende lo mas importante ya que de no ser por este nada podria funciona
 
-## Clase de Binario
-
-
-
-### Ejercicios de conversión
 
 ## Componentes
 
--PROCESADOR INTEL CORE I5-10400 2.9 LGA 1200 (SOCKET H5)
+-PROCESADOR INTEL CORE I7-10700KF 3.8 LGA 1200 (SOCKET H5)
 
 -MONITOR GAMING MSI OPTIX G241V 23.8" FHD . HDMI. DP. 75HZ. NEGRO (x3)
 
@@ -41,4 +36,4 @@ la placa base es uno de los componentes mas complejos que contiene una PC y por 
 
 # total
 
-949,63€
+1.074,61€
