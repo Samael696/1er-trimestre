@@ -118,3 +118,27 @@ Lect. secuencial:	    210 MB/s
 
 FUENTE: [Geektopia](https://www.geektopia.es/es/product/seagate/barracuda-1-tb/)
 
+### D.A.O Interior de un pc
+
+```
+-Fuente de alimentacion: Transforma la correinte de AC a DC, algo necesario para los ordenadores.
+AC - DC
+AC - Alternative corrent
+DC - Continous corrent
+-Placa Base: Placa en la cual se situan diferentes componentes para que el ordenador funcione (base del ordenador)
+-Microprocesadores: Son circuitos integrados que se conectan a la placa base, su funcion es procesar todos los
+datos y instrucciones con los millones de datos que posee.
+-Memoria Cache: La memoria caché. Se trata de una pequeña memoria incluida en el propio procesador. Su función es 
+actuar como memoria intermedia entre la memoria RAM y el núcleo del procesador, almacenando los datos
+y las instrucciones con los que va a trabajar el procesador. 
+-Memoria RAM: La memoria RAM es donde el ordenador almacena temporalmente los datos y los programas 
+con los que está trabajando. Todo lo que hay en ella almacenado se borra cuando apagamos o
+reiniciamos el ordenador. Físicamente es una placa rectangular de circuito impreso con varios chips, 
+que se acopla a la placa base a través de una ranura específica.
+DDR - 2 Paquetes por ciclo
+DDR2 - 4 paquetes por ciclo
+DDR3 - 8 paquetes por ciclo
+Hz = Veces por segundo
+-Ancho de banda: Es la máxima cantidad de datos/segundo que puede intercambiar la memoria con el 
+procesador.
+
