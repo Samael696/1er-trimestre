@@ -86,6 +86,8 @@ Fuente: [Geektopia](https://www.geektopia.es/es/product/gigabyte/geforce-gtx-105
 
 ## Discos duros
 
+![](https://raw.githubusercontent.com/Samael696/1er-trimestre/main/new111412.jpg)
+
 ### ¿Qué es un Disco duro?
 
 Un disco duro es una unidad de hardware que se usa para almacenar contenido y datos digitales en las computadoras. Todas las computadoras tienen un disco duro interno, pero también hay discos duros externos que pueden usarse para ampliar el almacenamiento de una computadora.
