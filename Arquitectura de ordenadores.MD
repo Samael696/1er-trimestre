@@ -80,5 +80,6 @@ AGP 8x
 
 Fuente: [Geektopia](https://www.geektopia.es/es/product/gigabyte/geforce-gtx-1050-ti-oc-4g/)
 
+
 ### Discos duros
 
