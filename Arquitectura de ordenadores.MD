@@ -51,4 +51,5 @@ la placa base es uno de los componentes mas complejos que contiene una PC y por 
 
 -Procesador
 -Memoria tipo cantidad y velocidad
--Salidas Tipo de in
+-Salidas Tipo de interfaz
+
