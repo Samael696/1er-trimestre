@@ -70,7 +70,7 @@ Velocidad de Reloj del procesador 1442 MHz
 
 AGP 8x
 
--nterfaz 	
+-interfaz 	
 
 128 bits
 
@@ -78,4 +78,5 @@ AGP 8x
 
 2000
 
+fuente [Geektopia](https://www.geektopia.es/es/product/gigabyte/geforce-gtx-1050-ti-oc-4g/)
 
