@@ -36,7 +36,7 @@ la placa base es uno de los componentes mas complejos que contiene una PC y por 
 
 -Gigabyte GeForce GTX 1050Ti D5 4GB GDDR5
 
-[Fuente](https://www.pccomponentes.com/)
+Fuente: [PC Componentes](https://www.pccomponentes.com/)
 
 # total
 
@@ -78,5 +78,5 @@ AGP 8x
 
 2000
 
-fuente [Geektopia](https://www.geektopia.es/es/product/gigabyte/geforce-gtx-1050-ti-oc-4g/)
+Fuente: [Geektopia](https://www.geektopia.es/es/product/gigabyte/geforce-gtx-1050-ti-oc-4g/)
 
