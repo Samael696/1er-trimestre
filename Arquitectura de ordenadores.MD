@@ -44,6 +44,8 @@ Fuente: [PC Componentes](https://www.pccomponentes.com/)
 
 ## tarjetas gráficas
 
+![](https://raw.githubusercontent.com/Samael696/1er-trimestre/main/%C3%ADndice.jpg)
+
 ### ¿Qué es una tarjeta gráfica? ¿Qué es una GPU?
 
 -La tarjeta gráfica o tarjeta de vídeo de un componente que viene integrado en la placa base del PC o se instala a parte para ampliar sus capacidades. Concretamente, esta tarjeta está dedicada al procesamiento de datos relacionados con el vídeo y las imágenes que se están reproduciendo en el ordenador.
