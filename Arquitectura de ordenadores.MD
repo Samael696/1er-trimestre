@@ -114,7 +114,3 @@ Lect. secuencial:	    210 MB/s
 
 FUENTE: [Geektopia](https://www.geektopia.es/es/product/seagate/barracuda-1-tb/)
 
-
-
-
-
