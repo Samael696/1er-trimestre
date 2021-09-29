@@ -77,7 +77,7 @@ AGP 8x
 -Ancho de Banda(Mb/s)
 
 2000
-https://www.geektopia.es/es/product/gigabyte/geforce-gtx-1050-ti-oc-4g/
+
 Fuente: [Geektopia](https://www.geektopia.es/es/product/gigabyte/geforce-gtx-1050-ti-oc-4g/)
 
 
