@@ -34,6 +34,21 @@ la placa base es uno de los componentes mas complejos que contiene una PC y por 
 
 -DISCO DURO 1000 GB 3.5 " SEAGATE BARRACUDA ST1000DM010 SERIAL ATA III
 
+-Gigabyte GeForce GTX 1050Ti D5 4GB GDDR5
+
+Fuente[] (https://www.pccomponentes.com/)
+
 # total
 
 1.024,61€
+
+## tarjetas gráficas
+
+### ¿Qué es una tarjeta gráfica? ¿Qué es una GPU?
+
+
+### ¿Qué caracteristicas tiene la tarjeta grafica que escogí?
+
+-Procesador
+-Memoria tipo cantidad y velocidad
+-Salidas Tipo de in
