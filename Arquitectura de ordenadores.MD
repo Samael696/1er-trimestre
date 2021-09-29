@@ -46,10 +46,36 @@ la placa base es uno de los componentes mas complejos que contiene una PC y por 
 
 ### ¿Qué es una tarjeta gráfica? ¿Qué es una GPU?
 
+-La tarjeta gráfica o tarjeta de vídeo de un componente que viene integrado en la placa base del PC o se instala a parte para ampliar sus capacidades. Concretamente, esta tarjeta está dedicada al procesamiento de datos relacionados con el vídeo y las imágenes que se están reproduciendo en el ordenador.
+
+-GPU es el acrónimo de Graphics Processing Unit y representa precisamente el corazón de una tarjeta gráfica al igual que la CPU lo hace en un PC. El concepto es importante desde el punto de vista de la utilidad, ya que como hemos comentado, una GPU no es una tarjeta gráfica en sí misma.
+
 
 ### ¿Qué caracteristicas tiene la tarjeta grafica que escogí?
 
 -Procesador
+
+GP107-400-A1
+
 -Memoria tipo cantidad y velocidad
+
+Memoria 	4 GB
+Tipo memoria 	GDDR5 a 7 GHz
+Interfaz 	128 bits
+Velocidad de Reloj del procesador 1442 MHz
+
 -Salidas Tipo de interfaz
+
+-Bus	
+
+AGP 8x
+
+-nterfaz 	
+
+128 bits
+
+-Ancho de Banda(Mb/s)
+
+2000
+
 
