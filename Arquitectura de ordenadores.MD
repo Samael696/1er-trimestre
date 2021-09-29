@@ -92,24 +92,24 @@ Un disco duro es una unidad de hardware que se usa para almacenar contenido y da
 
 DISCO DURO 1000 GB 3.5 " SEAGATE BARRACUDA ST1000DM010 SERIAL ATA III
 
-Capacidad 	    1000 GB
+Capacidad: 	    1000 GB
 
-Velocidad      	7200 rpm
+Velocidad:    	7200 rpm
 
-Interfaz 	      SATA3
+Interfaz:       SATA3
 
-Factor de forma 	3.5''
+Factor de forma:	3.5''
 
 
 Disco
 
-Cabezales    	1
+Cabezales:   	1
 
-Bytes/sector     	4096 bytes
+Bytes/sector:    	4096 bytes
 
-Cache 	    64 MB
+Cache:	          64MB
 
-Lect. secuencial 	    210 MB/s
+Lect. secuencial:	    210 MB/s
 
 
 
