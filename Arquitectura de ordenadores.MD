@@ -36,7 +36,7 @@ la placa base es uno de los componentes mas complejos que contiene una PC y por 
 
 -Gigabyte GeForce GTX 1050Ti D5 4GB GDDR5
 
-Fuente[] (https://www.pccomponentes.com/)
+[Fuente](https://www.pccomponentes.com/)
 
 # total
 
