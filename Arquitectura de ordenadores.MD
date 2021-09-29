@@ -77,10 +77,43 @@ AGP 8x
 -Ancho de Banda(Mb/s)
 
 2000
-
+https://www.geektopia.es/es/product/gigabyte/geforce-gtx-1050-ti-oc-4g/
 Fuente: [Geektopia](https://www.geektopia.es/es/product/gigabyte/geforce-gtx-1050-ti-oc-4g/)
 
 
 
 ### Discos duros
+
+## ¿Qué es un Disco duro?
+
+Un disco duro es una unidad de hardware que se usa para almacenar contenido y datos digitales en las computadoras. Todas las computadoras tienen un disco duro interno, pero también hay discos duros externos que pueden usarse para ampliar el almacenamiento de una computadora.
+
+### ¿Qué caracteristicas tiene el Disco duro que escogí?
+
+DISCO DURO 1000 GB 3.5 " SEAGATE BARRACUDA ST1000DM010 SERIAL ATA III
+
+Capacidad 	    1000 GB
+
+Velocidad      	7200 rpm
+
+Interfaz 	      SATA3
+
+Factor de forma 	3.5''
+
+
+Disco
+
+Cabezales    	1
+
+Bytes/sector     	4096 bytes
+
+Cache 	    64 MB
+
+Lect. secuencial 	    210 MB/s
+
+
+
+
+
+
 
