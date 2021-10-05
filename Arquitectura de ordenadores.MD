@@ -157,6 +157,22 @@ Protocolo     TCP/IP
 [a](https://grandecovian.es/FGC/files/D.%20Tecnolog%C3%ADa/TIC%20I/Arquitectura/Arquitectura%20de%20ordenadores.pdf) 
 
 
+### Disco duro (especificaciones)
+
+[DISCO DURO 1000 GB 3.5 " SEAGATE BARRACUDA ST1000DM010 SERIAL ATA III](https://www.futureworld.es/discos-duros/4211-seagate-barracuda-35-1tb-7200-sata3.html)
+
+-capacidad = 1000 GB
+
+-precio = 285€
+
+-interfaz = Serial ATA 3.0
+
+-tamaño de búfer = ["Tamaño de búfer en incrementos de 512 bytes (0000h=no especificado)".](https://www.seagate.com/es/es/support/kb/detecting-buffer-or-cache-size-in-ata-hard-disk-drives-203631en/)
+
+-velocidad de giro = 7200 rpm
+
+-tipo = estado solido 
+
 
 
 
