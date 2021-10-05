@@ -15,6 +15,29 @@ etos anteriormente mencionados ya son casi obsoletos debido a la nuevas formas d
 la ventilacion de algunos componentes es esencial para que estos no se fundan y dejen de funcionar, ya que al someterse a altas temperaturas, las soldaduras de estos se pueden fundir y estropear
 la placa base es uno de los componentes mas complejos que contiene una PC y por ende lo mas importante ya que de no ser por este nada podria funciona
 
+## 1. Numeros Binarios
+
+-Numeros Binarios-
+0 - 0
+1 - 1
+2 - 10
+3 - 11
+4 - 100
+5 - 101
+6 - 110
+7 - 111
+8 - 1000
+9 - 1001
+10 - 1010
+
+Existen codigos que convierten numeros en letras
+ASCIL (antiguo) tiene 755 valores y caracteres latinos (no tiene R)
+
+A - 011000
+a - 001010
+
+Unicode - Tiene hasta 100.000 caracteres.
+
 
 ## Componentes
 
