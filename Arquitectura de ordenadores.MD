@@ -19,21 +19,33 @@ la placa base es uno de los componentes mas complejos que contiene una PC y por 
 
 -Numeros Binarios-
 0 - 0
+
 1 - 1
+
 2 - 10
+
 3 - 11
+
 4 - 100
+
 5 - 101
+
 6 - 110
+
 7 - 111
+
 8 - 1000
+
 9 - 1001
+
 10 - 1010
+
 
 Existen codigos que convierten numeros en letras
 ASCIL (antiguo) tiene 755 valores y caracteres latinos (no tiene R)
 
 A - 011000
+
 a - 001010
 
 Unicode - Tiene hasta 100.000 caracteres.
