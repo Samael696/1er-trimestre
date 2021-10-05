@@ -120,7 +120,6 @@ FUENTE: [Geektopia](https://www.geektopia.es/es/product/seagate/barracuda-1-tb/)
 
 ### D.A.O Interior de un pc
 
-```
 -Fuente de alimentacion: Transforma la correinte de AC a DC, algo necesario para los ordenadores.
 AC - DC
 AC - Alternative corrent
@@ -141,11 +140,6 @@ DDR3 - 8 paquetes por ciclo
 Hz = Veces por segundo
 -Ancho de banda: Es la máxima cantidad de datos/segundo que puede intercambiar la memoria con el 
 procesador.
-
-
-
-
-
 
 
 
