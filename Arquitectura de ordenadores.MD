@@ -167,7 +167,7 @@ Protocolo     TCP/IP
 
 -interfaz = Serial ATA 3.0 a 6gb/s
 
--tamaño de búfer = ["Tamaño de búfer en incrementos de 512 bytes (0000h=no especificado)".](https://www.seagate.com/www-content/datasheets/pdfs/3-5-barracuda-3tbDS1900-10-1710ES-es_ES.pdf)
+-tamaño de búfer = ["Tamaño de búfer en incrementos de 512 bytes".](https://www.seagate.com/www-content/datasheets/pdfs/3-5-barracuda-3tbDS1900-10-1710ES-es_ES.pdf)
 
 -velocidad de giro = 7200 rpm
 
