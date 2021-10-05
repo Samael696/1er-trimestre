@@ -143,6 +143,13 @@ Hz = Veces por segundo
 procesador.
 
 
+
+
+
+
+
+
+
 ## Internet y redes
 
 ### Redes locales: LAN
