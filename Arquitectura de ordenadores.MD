@@ -205,6 +205,8 @@ componentes:
 
 -lector de CD's
 
+![](https://github.com/Samael696/1er-trimestre/blob/main/IMG_20211005_092053_615.jpg?raw=true)
 
+Y esta vendría siendo la potente fuente de alimentacion, no es la más fuerte que hay en el mercado, sin embargo, la potencia que tiene es realmente buena para todos los componentes que tiene que alimentar.
 
 
