@@ -163,15 +163,23 @@ Protocolo     TCP/IP
 
 -capacidad = 1000 GB
 
--precio = 285€
+-precio = 45€
 
--interfaz = Serial ATA 3.0
+-interfaz = Serial ATA 3.0 a 6gb/s
 
--tamaño de búfer = ["Tamaño de búfer en incrementos de 512 bytes (0000h=no especificado)".](https://www.seagate.com/es/es/support/kb/detecting-buffer-or-cache-size-in-ata-hard-disk-drives-203631en/)
+-tamaño de búfer = ["Tamaño de búfer en incrementos de 512 bytes (0000h=no especificado)".](https://www.seagate.com/www-content/datasheets/pdfs/3-5-barracuda-3tbDS1900-10-1710ES-es_ES.pdf)
 
 -velocidad de giro = 7200 rpm
 
--tipo = estado solido 
+-tipo = Magnetico
+
+
+### Reflexión sobre precios 
+
+El precio del disco duro que es cogí es un poco mayor al de otros que hay con las mismas especificaciones.
+Pero también creo que el precio es el preciso, no como el de otros discos duros que hay en el mercado los cuales seguramente tendrán capacidades que son por mucho inferiores al del que escogí y un precio absurdo, los cuales, muy probablemente mucha gente compra pensando que es mejor solo por lo que cuesta.
+
+
 
 
 
