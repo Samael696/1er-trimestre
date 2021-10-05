@@ -182,8 +182,28 @@ Pero también creo que el precio es el preciso, no como el de otros discos duros
 
 
 ## Desmontaje de ordenadores
+
+
+![](https://github.com/Samael696/1er-trimestre/blob/main/IMG_20211005_092051_348.jpg?raw=true)
+
+en esta foto se puede alcanzar a ver los componentes del CPU montados en la torre, lamentablemente la calidad de la foto no es la mejor pero era la foto más decente que pude obtener de antes del desmontaje.  
+
+
 ![](https://github.com/Samael696/1er-trimestre/blob/main/IMG_20211005_092114_668.jpg?raw=true)
 
+en esta ya se pueden apreciar los componentes por separados ya fuera de la torre y con una calidad mejor a la de la foto anterior.
+
+componentes:
+
+-placa base
+
+-fuente de energía 
+
+-disco duro
+
+-ventilador 
+
+-lector de CD's
 
 
 
