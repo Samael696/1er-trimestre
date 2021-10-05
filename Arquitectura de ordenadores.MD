@@ -149,10 +149,10 @@ procesador.
 ### Redes locales: LAN
 
 LAN: Local Area Network
-Protocolo     TCP/IP 
-                      IP 4bytes
+Protocolo     TCP/IP
+                        IP 4bytes
 
-     DHCP⇀ El Protocolo de configuración dinámica de host (DHCP) es un protocolo cliente/servidor que proporciona automáticamente un host de Protocolo de Internet (IP) con su dirección IP y otra información de configuración relacionada, como la máscara de subred y la puerta de enlace predeterminada.
+   DHCP⇀ El Protocolo de configuración dinámica de host (DHCP) es un protocolo cliente/servidor que proporciona automáticamente un host de Protocolo de Internet (IP) con su dirección IP y otra información de configuración relacionada, como la máscara de subred y la puerta de enlace predeterminada.
      
 
 
