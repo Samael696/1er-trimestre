@@ -52,6 +52,20 @@ Fuente: [PC Componentes](https://www.pccomponentes.com/)
 
 -GPU es el acrónimo de Graphics Processing Unit y representa precisamente el corazón de una tarjeta gráfica al igual que la CPU lo hace en un PC. El concepto es importante desde el punto de vista de la utilidad, ya que como hemos comentado, una GPU no es una tarjeta gráfica en sí misma.
 
+### ¿Que es la interfaz de la tarjeta gráfica?
+
+
+La interfaz de la targeta grafica es la conexión a la placa base, Existen dos tipos de interfaz: 
+
+AGP 8X: Es la última versión del bus AGP, que se caracteriza por un ancho de banda 
+(por ejemplo de 2 GB/s) en el sentido placa base -> tarjeta y otro (por ejemplo de 266 
+MB/s) en el sentido inverso (en el ejemplo, 2,26 GB/s en total).
+
+PCI-Express 16X: Sistema de bus para tarjetas gráficas, cuyo ancho de banda es de 4 
+GB/s en ambos sentidos (8 GB/s en total). El acceso a la memoria RAM de la placa base 
+está gestionado por hardware desde el propio procesador gráfico. Ahora mismo es más 
+rápido que AGP. 
+
 
 ### ¿Qué caracteristicas tiene la tarjeta grafica que escogí?
 
