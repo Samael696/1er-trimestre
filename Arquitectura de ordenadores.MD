@@ -232,6 +232,15 @@ Pero también creo que el precio es el preciso, no como el de otros discos duros
 
 ## Desmontaje de ordenadores
 
+### Procedimiento de desmontaje del ordenador 
+
+
+
+
+
+
+
+
 
 ![](https://github.com/Samael696/1er-trimestre/blob/main/IMG_20211005_092051_348.jpg?raw=true)
 
