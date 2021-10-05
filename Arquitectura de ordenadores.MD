@@ -181,6 +181,7 @@ Pero también creo que el precio es el preciso, no como el de otros discos duros
 
 
 
+## Desmontaje de ordenadores
 ![](https://github.com/Samael696/1er-trimestre/blob/main/IMG_20211005_092114_668.jpg?raw=true)
 
 
