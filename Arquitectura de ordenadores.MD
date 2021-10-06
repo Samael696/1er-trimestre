@@ -268,3 +268,4 @@ componentes:
 Y esta vendría siendo la potente fuente de alimentacion, no es la más fuerte que hay en el mercado, sin embargo, la potencia que tiene es realmente buena para todos los componentes que tiene que alimentar.
 
 
+## Tarjeta de sonido
