@@ -269,3 +269,20 @@ Y esta vendría siendo la potente fuente de alimentacion, no es la más fuerte q
 
 
 ## Tarjeta de sonido
+
+La tarjeta de sonido tiene una doble función:
+
+ Convertir la información digital contenida en archivos de sonido (de tipo WAV, MP3…) en
+una señal de sonido analógica que pueda ser transmitida a unos altavoces u otro aparato de
+sonido analógico.
+
+ Grabar la señal de sonido procedente de una fuente analógica (micrófono, magnetófono,
+reproductor de CD…) en un archivo de sonido digital.
+
+Físicamente es una placa de circuito impreso, que contiene componentes electrónicos
+específicos (DSP, ADC, DAC, RAM, ROM), conexiones internas y externas, así como la interfaz de
+conexión a la placa base, que es de tipo PCI.
+
+
+
+
