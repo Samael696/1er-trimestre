@@ -287,3 +287,23 @@ conexión a la placa base, que es de tipo PCI.
 
 
 
+int valorDelBoton = 0;
+void setup () {
+               pinMode (3, OUTPUT);
+               pinMode (2, INPUT);
+}
+
+void loop(){ 
+  valorDelBoton = digitalRead (2);
+  if( valorDelBoton == LOW) {
+    
+  }
+  else {
+    
+  }
+}
+
+
+
+
+
