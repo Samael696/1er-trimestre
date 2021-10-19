@@ -203,6 +203,7 @@ Protocolo     TCP/IP
 
    DHCP⇀ El Protocolo de configuración dinámica de host (DHCP) es un protocolo cliente/servidor que proporciona automáticamente un host de Protocolo de Internet (IP) con su dirección IP y otra información de configuración relacionada, como la máscara de subred y la puerta de enlace predeterminada.
       
+   
 [a](https://grandecovian.es/FGC/files/D.%20Tecnolog%C3%ADa/TIC%20I/Arquitectura/Arquitectura%20de%20ordenadores.pdf) 
 
 
