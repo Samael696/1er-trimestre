@@ -155,7 +155,11 @@ El siguiente paso, el rasterizado  es a lo que podriamos llamar “lo más compl
 La clase deinkscape me resulta muy interesante a mi gusto y me deja con ganas de aprender más.
 
 
+## Logos
 
+![](https://github.com/Samael696/1er-trimestre/blob/main/Captura%20de%20pantalla%20de%202021-10-27%2012-41-53.png?raw=true)
+
+![](https://github.com/Samael696/1er-trimestre/blob/main/Captura%20de%20pantalla%20de%202021-10-27%2012-42-26.png?raw=true)
 
 
 
