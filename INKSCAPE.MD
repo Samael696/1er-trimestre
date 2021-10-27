@@ -166,6 +166,8 @@ El diseño de estos logos no fueron complicados para mí, la parte más delicada
 
 
 
+## LOGO “PROPIO“
 
+![](https://github.com/Samael696/1er-trimestre/blob/main/Captura%20de%20pantalla%20de%202021-10-27%2014-05-24.png?raw=true)
 
 
