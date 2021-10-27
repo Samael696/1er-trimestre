@@ -114,3 +114,22 @@ también he tenido que rediseñar pedazos del dibujo debido a que se veía muy f
 
 
 ### Razterizado de imágenes 
+
+## león 01
+![](https://github.com/Samael696/1er-trimestre/blob/main/le%C3%B3n01.png?raw=true)
+
+## león 02
+
+![](https://github.com/Samael696/1er-trimestre/blob/main/le%C3%B3n02.png?raw=true)
+
+## león 03
+
+![](https://github.com/Samael696/1er-trimestre/blob/main/le%C3%B3n03.png?raw=true)
+
+## león 04
+
+![](https://github.com/Samael696/1er-trimestre/blob/main/le%C3%B3n04.png?raw=true)
+
+## león 05
+
+![](https://github.com/Samael696/1er-trimestre/blob/main/le%C3%B3n05.png?raw=true)
