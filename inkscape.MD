@@ -111,3 +111,6 @@ también he tenido que rediseñar pedazos del dibujo debido a que se veía muy f
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+### Razterizado de imágenes 
