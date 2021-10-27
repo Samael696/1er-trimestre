@@ -147,3 +147,22 @@ Este sistema mezcla lo sigguiente:
 - Un canal de nivel de saturación cromática que va del gris al color (saturación)
 - Un canal de luminosidad de color (LIGHT)
 - Un canal de transparencia (alfa)
+
+
+La parte de la vectorización me resultó ser lo más “fácil“ ya que dentro de lo que parece todo tiene sus complicaciones, pero debido a conocimientos previos no me resultó ser algo complicado de hacer.
+El siguiente paso, el rasterizado  es a lo que podriamos llamar “lo más complicado“ de todo el proceso, sin embargo creo que los resultados fueron bastante buenos y muy a corde a mis expectativas, tuve unos pequeños problemas para concluir debido a que el inkscape se cerraba y tuve que hacer todo de nuevo 2 veces por este pequeño detalle.
+
+La clase deinkscape me resulta muy interesante a mi gusto y me deja con ganas de aprender más.
+
+
+
+
+
+
+
+
+
+
+
+
+
