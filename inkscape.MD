@@ -162,8 +162,7 @@ La clase deinkscape me resulta muy interesante a mi gusto y me deja con ganas de
 ![](https://github.com/Samael696/1er-trimestre/blob/main/Captura%20de%20pantalla%20de%202021-10-27%2012-42-26.png?raw=true)
 
 
-
-
+El diseño de estos logos no fueron complicados para mí, la parte más delicada fue el círculo, fuera de eso todo ez. 
 
 
 
