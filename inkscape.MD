@@ -133,3 +133,17 @@ también he tenido que rediseñar pedazos del dibujo debido a que se veía muy f
 ## león 05
 
 ![](https://github.com/Samael696/1er-trimestre/blob/main/le%C3%B3n05.png?raw=true)
+
+
+## Tipos de color
+
+![](https://github.com/Samael696/1er-trimestre/blob/main/Captura%20de%20pantalla%20de%202021-10-27%2010-26-22.png?raw=true)
+
+HSL (Hue, Saturation, Light)
+
+Este sistema mezcla lo sigguiente:
+
+- Un tono de color en la rueda cromática (hue)
+- Un canal de nivel de saturación cromática que va del gris al color (saturación)
+- Un canal de luminosidad de color (LIGHT)
+- Un canal de transparencia (alfa)
