@@ -11,20 +11,20 @@ El theremin detecta dónde están las manos del músico en relación a dos anten
 Estas antenas están conectadas a un circuito analógico que crea el sonido. Una antena controla la frecuencia del sonido, y la otra controla el volume
 
 ```C++
-int sensor Value;
+int sensorValue;
 int sensorLow = 1023;
 int sensorHigh = 0;
 
-const int LedPin = 13
+const int LedPin = 13;
 
 void setup() {
 
-pinMode(ledPin, OUTPUT);
-digitalWRite(ledPin, HIGH);
+pinMode(LedPin, OUTPUT);
+digitalWrite(LedPin, HIGH);
 
 while (millis () < 5000) {
 
-sensorValue = analogRead(AO);
+sensorValue = analogRead(A0);
 if (sensorValue > sensorHigh) {
 sensorHigh = sensorValue;
 }
@@ -32,10 +32,10 @@ if (sensorValue > sensorLow) {
 sensorLow = sensorValue;
  }
 }
-digitalWrite(ledPin, LOW);
+digitalWrite(LedPin, LOW);
 }
 void loop() {
-sensorValue = analogRead(AO);
+sensorValue = analogRead(A0);
 
 int pitch =
   map(sensorValue,sensorLow,sensorHigh, 50 , 4000);
