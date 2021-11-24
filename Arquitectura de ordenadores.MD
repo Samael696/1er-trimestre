@@ -69,6 +69,7 @@ Unicode - Tiene hasta 100.000 caracteres.
 
 -DISCO DURO 1000 GB 3.5 " SEAGATE BARRACUDA ST1000DM010 SERIAL ATA III
 
+
 -Gigabyte GeForce GTX 1050Ti D5 4GB GDDR5
 
 Fuente: [PC Componentes](https://www.pccomponentes.com/)
@@ -283,5 +284,7 @@ reproductor de CD…) en un archivo de sonido digital.
 Físicamente es una placa de circuito impreso, que contiene componentes electrónicos
 específicos (DSP, ADC, DAC, RAM, ROM), conexiones internas y externas, así como la interfaz de
 conexión a la placa base, que es de tipo PCI.
+
+
 
 
