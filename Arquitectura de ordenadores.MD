@@ -286,5 +286,21 @@ específicos (DSP, ADC, DAC, RAM, ROM), conexiones internas y externas, así com
 conexión a la placa base, que es de tipo PCI.
 
 
+### Internet y redes
 
+#### Red Local - LAN
+
+```
+
+LAN - Local Area Network
+
+Ruta - 255.255.0.203/fotos bonitas/IMG 8066.JPG
+
+Ataque DDOS - Pedir a la vez demasiadas cosas desde un mismo servidor.
+
+Stream - Corriente de agua 
+
+```
+
+---
 
