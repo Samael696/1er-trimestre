@@ -164,7 +164,8 @@ La clase deinkscape me resulta muy interesante a mi gusto y me deja con ganas de
 
 El diseño de estos logos no fueron complicados para mí, la parte más delicada fue el círculo, fuera de eso todo ez. 
 
-
+## LOGO 
+![](https://raw.githubusercontent.com/Samael696/1er-trimestre/1b08d70c0d44f0012a0eb90db02a715a55412a2c/Favor2.svg)
 
 ## LOGO “PROPIO“
 
