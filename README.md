@@ -47,7 +47,9 @@ Bienevenidos al 1er cuatrimestre
 
 -me interesa aprender programacion en arduino
 
+-inkscape está muy bueno
+
 ⛈️⛈️⛈️⛈️⛈️⛈️⛈️⛈️⛈️⛈️
 
 
-[Arquitectura de ordenadores](https://github.com/Samael696/1er-trimestre/blob/main/Arquitectura%20de%20ordenadores.MD)
+[Arquitectura de ordenadores]()
