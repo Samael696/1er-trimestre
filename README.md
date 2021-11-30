@@ -1,5 +1,6 @@
 # 1er-trimestre
-´´´c++
+
+```c++
 int valuepuls = 0, pinpuls = 4; // VARIABLE Y PIN DEL PULSADOR 
 int led3 = 3; // PINS DE CONEXIÓN DEL LED
 
@@ -28,7 +29,7 @@ valuepuls = digitalRead (pinpuls);
   }
 
 }
-´´´
+```
 
 ![imagen](https://user-images.githubusercontent.com/90753326/133392921-7047aec6-2fe8-4f83-bd3b-39fd3ec56df0.png)
 
